@@ -1,0 +1,19 @@
+{
+  "name": "chessj",
+  "version": "1.0.0",
+  "description": "project for iwp",
+  "main": "landing.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jai10-dev/chessj.git"
+  },
+  "author": "jai parwani who wishes death",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jai10-dev/chessj/issues"
+  },
+  "homepage": "https://github.com/jai10-dev/chessj#readme"
+}
